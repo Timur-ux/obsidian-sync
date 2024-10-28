@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "13d85312915124df",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfcebf816bb4e860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c9dd90796764b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Notes/Computer Graphics/Модели освещения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Модели освещения"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1e3749483b86640",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c5e1dab2acfe86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3a79034e1eb7f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2731866933d47286",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da5efed83c26ee1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "c0347496153f17cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d273350bcf1f7bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd09f8a21dfb561",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Notes/Computer Graphics/Модель освещения Ламберта.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Модель освещения Ламберта"
+            }
+          },
+          {
+            "id": "d5eb136f5fc51722",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Notes/Computer Graphics/Модель освещения Ламберта.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Модель освещения Ламберта"
+            }
+          },
+          {
+            "id": "98bbc3936a024d51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7277d64abb2f4144",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Notes/Computer Graphics/Модель освещения Ламберта.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Модель освещения Ламберта"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36c9dd90796764b3",
+  "lastOpenFiles": [
+    "Project Notes/Computer Graphics/Модели освещения.md",
+    "Project Notes/Computer Graphics/Pipeline работы с текстурами.md",
+    "Project Notes/Computer Graphics/Работа с текстурами в OpenGL.md",
+    "Project Notes/Computer Graphics/Текстуры.md",
+    "Project Notes/Computer Graphics/VBO.md",
+    "Project Notes/Computer Graphics/VBO Буфер вершинного объекта.md",
+    "Project Notes/Computer Graphics/CG.md",
+    "Project Notes/Computer Graphics/Pipeline графического конвейера в OpenGL 3.3+.md",
+    "Гауссовский случайный вектор.md",
+    "Project Notes/Computer Graphics",
+    "Project Notes/Machine Learning/Идея реализации embedding.md",
+    "Project Notes/Электроника/Транзистор -- как усилительный элемент.md",
+    "Project Notes/Machine Learning",
+    "Project Notes/Электроника/Отвод напряжения и тока.md",
+    "Project Notes/Электроника/Электродвижущая сила ЭДС..md",
+    "Project Notes/Электроника/Аккумуляторы и батарейки.md",
+    "Условное математическое ожидание.md",
+    "Project Notes/Электроника",
+    "Project Notes/ТВиМС/Условная функция распределения.md",
+    "Project Notes/ТВиМС/Условная плотность вероятности.md",
+    "Ковариация.md",
+    "Project Notes/ТВиМС/Основные распределения.md",
+    "Project Notes/ТВиМС/СВ.md",
+    "Project Notes/ТВиМС/ТВиМС.md",
+    "Project Notes/ТВиМС/k-й центральный момент.md",
+    "Project Notes/ТВиМС/k-й начальный момент.md",
+    "Project Notes/ТВиМС/Числовые характеристики СВ.md",
+    "Project Notes/ТВиМС/Математическое ожидание.md",
+    "Project Notes/ТВиМС/Дисперсия.md",
+    "Project Notes/ТВиМС",
+    "Loss",
+    "Reference notes",
+    "Project Notes/LLM",
+    "Project Notes/Factorio",
+    "Project Notes",
+    "Constant notes"
+  ]
+}
