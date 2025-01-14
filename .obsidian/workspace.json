@@ -11,14 +11,10 @@
             "id": "303642712fb06d60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Распределение Фишера.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Распределение Фишера"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Распределение Фишера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Распределение Фишера"
+              "title": "Backlinks"
             }
           },
           {
@@ -160,34 +155,41 @@
   },
   "active": "303642712fb06d60",
   "lastOpenFiles": [
-    "notes/Theme notes/ТВиМС/Основные распределения.md",
-    "Распределение Фишера.md",
-    "Распределение хи-квадрат.md",
-    "Интервальные оценки параметров.md",
-    "Распределение Стьюдента.md",
-    "notes/Theme notes/ТВиМС/Асимптотически нормальная СВ.md",
-    "notes/Theme notes/ТВиМС/Центральная предельная теорема.md",
-    "notes/Theme notes/ТВиМС/Методы построения точечных оценок.md",
-    "notes/Theme notes/ТВиМС/Эффективность точечных оценок.md",
-    "notes/Theme notes/ТВиМС/Точечные оценки.md",
-    "Точечные оценки^3fd223.md",
-    "notes/Theme notes/ТВиМС/Основные теоремы о выборках.md",
-    "notes/Theme notes/ТВиМС/Свойства точечных оценок.md",
-    "notes/Theme notes/ТВиМС/Закон больших чисел.md",
-    "notes/Theme notes/ТВиМС/Гауссовский случайный вектор.md",
-    "notes/Theme notes/ТВиМС/Свойства сходящихся последовательностей.md",
-    "notes/Theme notes/ТВиМС/Сходимость последовательности случайных величин.md",
-    "notes/Theme notes/ТВиМС/Характеристики выборки.md",
-    "notes/Theme notes/ТВиМС/Важнейшие виды статистик.md",
-    "notes/Theme notes/ТВиМС/ТВиМС.md",
-    "notes/Theme notes/ТВиМС/Числовые характеристики СВ.md",
-    "notes/Theme notes/ТВиМС/Теорема Борель-Кантелли.md",
+    "notes/Theme notes/ТВиМС/Распределение Фишера.md",
+    "Usually notes/Языковая модель второго порядка с пропусками.md",
+    "Usually notes/Определение вероятности следующего слова по текущим.md",
+    "Usually notes/Маска -- как внимание.md",
+    "Usually notes/One-hot кодирование.md",
+    "Usually notes",
+    "Theme notes/ТВиМС/Эффективность точечных оценок.md",
+    "Theme notes/ТВиМС/Числовые характеристики СВ.md",
+    "Theme notes/ТВиМС/Центральная предельная теорема.md",
+    "Theme notes/ТВиМС/ЦПТ.md",
+    "Theme notes/ТВиМС/Характеристики выборки.md",
+    "Theme notes/ТВиМС/Условное распределение гауссовского вектора.md",
+    "Theme notes/ТВиМС/Условное математическое ожидание.md",
+    "Theme notes/ТВиМС/Условная функция распределения.md",
+    "Theme notes/ТВиМС/Условная плотность вероятности.md",
+    "Theme notes/ТВиМС/Точечные оценки.md",
+    "Theme notes/ТВиМС/Теорема Борель-Кантелли.md",
+    "Theme notes/ТВиМС/Случайная величина.md",
+    "Theme notes/ТВиМС/ТВиМС.md",
+    "Theme notes/ТВиМС/Сходимость последовательности случайных величин.md",
+    "Theme notes/ТВиМС/Свойства точечных оценок.md",
+    "Theme notes/ТВиМС/Свойства сходящихся последовательностей.md",
+    "Theme notes/ТВиМС/Свойства ковариации.md",
+    "Theme notes/ТВиМС/Свойства Гауссовского вектора.md",
+    "Theme notes/ТВиМС/СВ.md",
+    "Theme notes/ТВиМС/Распределение хи-квадрат.md",
+    "Theme notes/ТВиМС/Распределение Стьюдента.md",
+    "Theme notes/Электроника",
+    "Theme notes/ТВиМС",
+    "Theme notes/Machine Learning",
+    "Theme notes/Factorio",
+    "Theme notes/Computer Graphics",
+    "Theme notes",
+    "Reference notes",
     "Основные теоремы о выборках.md~",
-    "4913",
-    "Важнейшие виды статистик.md",
-    "Важнейшие виды статистик.md~",
-    "1733578207-QBFU.md",
-    "Общие заметки/Theme notes/ТВиМС/Характеристики выборки.md",
-    "Общие заметки/Theme notes/ТВиМС/Закон больших чисел.md"
+    "4913"
   ]
 }
