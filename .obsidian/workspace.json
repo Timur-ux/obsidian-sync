@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "56b90efd594e89de",
+        "id": "fd8640b48579e1f5",
         "type": "tabs",
         "children": [
           {
-            "id": "303642712fb06d60",
+            "id": "6677ba9b03cfc88b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theme notes/ФАН/Теорема Хана-Банаха об обратном операторе (без доказательства).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Теорема Хана-Банаха об обратном операторе (без доказательства)"
+            }
+          },
+          {
+            "id": "4ac5ed08d0f36767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обратный оператор к I - A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обратный оператор к I - A"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Обратный оператор к I - A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Обратный оператор к I - A"
             }
           },
           {
@@ -153,43 +174,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "303642712fb06d60",
+  "active": "4ac5ed08d0f36767",
   "lastOpenFiles": [
-    "notes/Theme notes/ТВиМС/Распределение Фишера.md",
-    "Usually notes/Языковая модель второго порядка с пропусками.md",
-    "Usually notes/Определение вероятности следующего слова по текущим.md",
-    "Usually notes/Маска -- как внимание.md",
-    "Usually notes/One-hot кодирование.md",
+    "Theme notes/ФАН/Теорема Хана-Банаха об обратном операторе (без доказательства).md",
+    "Обратный оператор к I - A.md",
+    "Theme notes/ФАН/Условие полноты пространства линейных ограниченных операторов.md",
+    "Theme notes/ФАН/Рефлексивное пространство.md",
+    "Theme notes/ФАН/Унитарное пространство.md",
+    "Theme notes/ФАН/Второе сопряженное пространство.md",
+    "Theme notes/ФАН/Теорема об изоморфизме сепарабельных гильбертовых пространств.md",
+    "Theme notes/ФАН/Изоморфизм гильбертовых пространств.md",
+    "Theme notes/ФАН/Евклидово пространство.md",
+    "Общий вид линейного функционала в пространстве сходящихся последовательностей.md",
+    "Theme notes/ФАН/Полнота сопряженного пространства.md",
+    "Theme notes/ФАН/Теорема Рисса об общем виде линейного функционала в гильбертовом пространстве.md",
+    "Theme notes/ФАН/Норма линейного оператора в нормированном пространстве.md",
+    "Theme notes/ФАН/Сопряженное пространство.md",
+    "Theme notes/ФАН/Линейный оператор.md",
+    "Theme notes/ФАН/Теорема Хана-Банаха о продолжении линейного ограниченного функционала и следствие из неё.md",
+    "Theme notes/ФАН/Норма линейного функционала в нормированном пространстве.md",
+    "Theme notes/ФАН/Равносильность непрерывности и ограниченности линейного функционала(оператора).md",
+    "Theme notes/ФАН/Базис сепарабельного гильбертово пространства.md",
+    "Theme notes/ФАН/Полная (тотальная) система.md",
+    "Theme notes/ФАН/Функционал.md",
+    "Theme notes/ФАН/Гильбертово пространство.md",
+    "Theme notes/ФАН/Банахово пространство.md",
+    "Theme notes/ФАН/Полное пространство.md",
+    "Theme notes/ФАН/Полное пространство 1.md",
+    "Theme notes/ФАН/Базис нормированного пространства.md",
+    "Theme notes/ФАН",
+    "Theme notes/БЖД",
     "Usually notes",
-    "Theme notes/ТВиМС/Эффективность точечных оценок.md",
-    "Theme notes/ТВиМС/Числовые характеристики СВ.md",
-    "Theme notes/ТВиМС/Центральная предельная теорема.md",
-    "Theme notes/ТВиМС/ЦПТ.md",
-    "Theme notes/ТВиМС/Характеристики выборки.md",
-    "Theme notes/ТВиМС/Условное распределение гауссовского вектора.md",
-    "Theme notes/ТВиМС/Условное математическое ожидание.md",
-    "Theme notes/ТВиМС/Условная функция распределения.md",
-    "Theme notes/ТВиМС/Условная плотность вероятности.md",
-    "Theme notes/ТВиМС/Точечные оценки.md",
-    "Theme notes/ТВиМС/Теорема Борель-Кантелли.md",
-    "Theme notes/ТВиМС/Случайная величина.md",
-    "Theme notes/ТВиМС/ТВиМС.md",
-    "Theme notes/ТВиМС/Сходимость последовательности случайных величин.md",
-    "Theme notes/ТВиМС/Свойства точечных оценок.md",
-    "Theme notes/ТВиМС/Свойства сходящихся последовательностей.md",
-    "Theme notes/ТВиМС/Свойства ковариации.md",
-    "Theme notes/ТВиМС/Свойства Гауссовского вектора.md",
-    "Theme notes/ТВиМС/СВ.md",
-    "Theme notes/ТВиМС/Распределение хи-квадрат.md",
-    "Theme notes/ТВиМС/Распределение Стьюдента.md",
     "Theme notes/Электроника",
     "Theme notes/ТВиМС",
     "Theme notes/Machine Learning",
     "Theme notes/Factorio",
     "Theme notes/Computer Graphics",
     "Theme notes",
-    "Reference notes",
-    "Основные теоремы о выборках.md~",
-    "4913"
+    "Reference notes"
   ]
 }
