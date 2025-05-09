@@ -190,6 +190,8 @@
   },
   "active": "2f6399bfe4db87db",
   "lastOpenFiles": [
+    "scripts/obsidianHotkeys.py",
+    "scripts",
     "Система множеств - алгебра.md",
     "Система множеств.md",
     "Theme notes/ФАН/Обратный оператор к I - A.md",
@@ -215,7 +217,6 @@
     "Theme notes/ФАН/Полная (тотальная) система.md",
     "Theme notes/ФАН/Функционал.md",
     "Theme notes/ФАН/Гильбертово пространство.md",
-    "Theme notes/ФАН/Банахово пространство.md",
     "Theme notes/ФАН",
     "Theme notes/БЖД",
     "Usually notes",
@@ -224,7 +225,6 @@
     "Theme notes/Machine Learning",
     "Theme notes/Factorio",
     "Theme notes/Computer Graphics",
-    "Theme notes",
-    "Reference notes"
+    "Theme notes"
   ]
 }
